@@ -5,8 +5,10 @@ Per questa applicazione ho usato:
 - Backend: ExpressJS
 - Frontend: React
 
-Il backend ha al suo interno una API REST che fornisce i dati dei punti vendita (index) e i dati del singolo punto vendita (show) interrogando il database,
-il frontend invece consuma l'API REST da Express è visualizza due pagine legate ognuna da una specifica rotta: la prima visualizza una lista dei punti vendita insieme ad una mappa interattiva, mentre la seconda visualizza il dettaglio di un singolo punto vendita sempre con mappa.
+Il backend ha al suo interno una API REST che fornisce i dati dei punti vendita (index) e i dati del singolo punto vendita (show) interrogando il database
+Il frontend invece consuma l'API REST da Express è visualizza due pagine legate ognuna da una specifica rotta:
+- La prima visualizza una lista dei punti vendita insieme ad una mappa interattiva
+- La seconda visualizza il dettaglio di un singolo punto vendita sempre con mappa.
 
 In questa app l'utente può:
 - Cercare i negozi per nome
