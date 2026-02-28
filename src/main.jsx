@@ -12,7 +12,7 @@ import markerShadow from "leaflet/dist/images/marker-shadow.png";
 // delete L.Icon.Default.prototype._getIconUrl;
 
 L.Icon.Default.mergeOptions({
-  iconUrl: markerIcon,
+  // iconUrl: markerIcon,
   // shadowUrl: markerShadow,
 });
 
